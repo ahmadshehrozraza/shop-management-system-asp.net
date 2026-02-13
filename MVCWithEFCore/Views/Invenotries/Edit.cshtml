@@ -1,0 +1,64 @@
+﻿@model MVCWithEFCore.Models.Invenotry
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Invenotry</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="ProId" />
+            <div class="form-group">
+                <label asp-for="ProName" class="control-label"></label>
+                <input asp-for="ProName" class="form-control" />
+                <span asp-validation-for="ProName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProSupplier" class="control-label"></label>
+                <input asp-for="ProSupplier" class="form-control" />
+                <span asp-validation-for="ProSupplier" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProCategory" class="control-label"></label>
+                <input asp-for="ProCategory" class="form-control" />
+                <span asp-validation-for="ProCategory" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProSubCat" class="control-label"></label>
+                <input asp-for="ProSubCat" class="form-control" />
+                <span asp-validation-for="ProSubCat" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProPricePerItem" class="control-label"></label>
+                <input asp-for="ProPricePerItem" class="form-control" />
+                <span asp-validation-for="ProPricePerItem" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProQuantity" class="control-label"></label>
+                <input asp-for="ProQuantity" class="form-control" />
+                <span asp-validation-for="ProQuantity" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ProOrderPrice" class="control-label"></label>
+                <input asp-for="ProOrderPrice" class="form-control" />
+                <span asp-validation-for="ProOrderPrice" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

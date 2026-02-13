@@ -1,0 +1,65 @@
+﻿@model MVCWithEFCore.Models.EmployeeDatum
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>EmployeeDatum</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+           
+            <div class="form-group">
+                <label asp-for="EName" class="control-label"></label>
+                <input asp-for="EName" class="form-control" />
+                <span asp-validation-for="EName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EEmail" class="control-label"></label>
+                <input asp-for="EEmail" class="form-control" />
+                <span asp-validation-for="EEmail" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EPhone" class="control-label"></label>
+                <input asp-for="EPhone" class="form-control" />
+                <span asp-validation-for="EPhone" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EJobTitle" class="control-label"></label>
+                <input asp-for="EJobTitle" class="form-control" />
+                <span asp-validation-for="EJobTitle" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EJoinDate" class="control-label"></label>
+                <input asp-for="EJoinDate" class="form-control" />
+                <span asp-validation-for="EJoinDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ESalary" class="control-label"></label>
+                <input asp-for="ESalary" class="form-control" />
+                <span asp-validation-for="ESalary" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="EShift" class="control-label"></label>
+                <input asp-for="EShift" class="form-control" />
+                <span asp-validation-for="EShift" class="text-danger"></span>
+            </div>
+            <div class="form-group mt-3">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

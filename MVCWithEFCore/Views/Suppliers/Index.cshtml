@@ -1,0 +1,53 @@
+﻿@model IEnumerable<MVCWithEFCore.Models.Supplier>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Suppliers</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SupName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SupAddress)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.SupAddress)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.SupId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.SupId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.SupId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

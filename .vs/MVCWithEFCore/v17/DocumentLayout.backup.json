@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\suppliers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\controllers\\employeedatumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\controllers\\employeedatumscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\controllers\\supplierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\employeedatums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\employeedatums\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\models\\employeedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\models\\employeedatum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\models\\invenotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\models\\invenotry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\suppliers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\invenotries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\invenotries\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\invenotries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\invenotries\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\employeedatums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\employeedatums\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\invenotries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\invenotries\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|c:\\users\\ahmad\\documents\\visual studio 2022\\mvcwithefcore\\mvcwithefcore\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E13DE940-0D58-4255-A5A7-31FEE6EBB9FF}|MVCWithEFCore\\MVCWithEFCore.csproj|solutionrelative:mvcwithefcore\\views\\suppliers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\appsettings.json",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\appsettings.json",
+              "RelativeToolTip": "MVCWithEFCore\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-29T05:02:25.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeDatumsController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Controllers\\EmployeeDatumsController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Controllers\\EmployeeDatumsController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Controllers\\EmployeeDatumsController.cs",
+              "RelativeToolTip": "MVCWithEFCore\\Controllers\\EmployeeDatumsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:28:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Suppliers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Edit.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Suppliers\\Edit.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:24:35.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Suppliers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Create.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Suppliers\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAACBjwCIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:24:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Invenotries\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Edit.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Invenotries\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAACBjwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:24:13.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\EmployeeDatums\\Edit.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\EmployeeDatums\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\EmployeeDatums\\Edit.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\EmployeeDatums\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAACBjwDcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:23:54.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\EmployeeDatums\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\EmployeeDatums\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\EmployeeDatums\\Create.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\EmployeeDatums\\Create.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAIBZwAwAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:23:03.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\Supplier.cs",
+              "RelativeToolTip": "MVCWithEFCore\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:17:32.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeDatum.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\EmployeeDatum.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Models\\EmployeeDatum.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\EmployeeDatum.cs",
+              "RelativeToolTip": "MVCWithEFCore\\Models\\EmployeeDatum.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:13:35.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Suppliers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Suppliers\\Index.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Suppliers\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:11:24.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuppliersController.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Controllers\\SuppliersController.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Controllers\\SuppliersController.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Controllers\\SuppliersController.cs",
+              "RelativeToolTip": "MVCWithEFCore\\Controllers\\SuppliersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T01:09:46.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:06:45.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:06:44.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Invenotries\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Index.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Invenotries\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T01:01:09.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Invenotry.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\Invenotry.cs",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Models\\Invenotry.cs",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Models\\Invenotry.cs",
+              "RelativeToolTip": "MVCWithEFCore\\Models\\Invenotry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-21T05:55:03.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCWithEFCore\\Views\\Invenotries\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Ahmad\\Documents\\Visual Studio 2022\\MVCWithEFCore\\MVCWithEFCore\\Views\\Invenotries\\Create.cshtml",
+              "RelativeToolTip": "MVCWithEFCore\\Views\\Invenotries\\Create.cshtml",
+              "ViewState": "AgIAACAAAAAAAAAAACBjwDMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T13:14:19.296Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

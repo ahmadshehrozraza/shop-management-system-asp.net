@@ -1,0 +1,71 @@
+﻿@model IEnumerable<MVCWithEFCore.Models.EmployeeDatum>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employees</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EEmail)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EPhone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EJobTitle)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EJoinDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ESalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EShift)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.EName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EEmail)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EPhone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EJobTitle)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EJoinDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ESalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EShift)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
